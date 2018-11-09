@@ -1,9 +1,5 @@
-import math
-
-
 def addValues(a, b):
-    r = a + b
-    return r
+    return a + b
 
 
 print(addValues(4, 2))
